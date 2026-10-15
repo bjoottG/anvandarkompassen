@@ -1,0 +1,6 @@
+node_modules
+dist
+.vercel
+public/default-data.xlsx
+*.log
+.DS_Store
